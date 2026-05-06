@@ -62,6 +62,17 @@ slides/        -> PowerPoint presentations used in class
 
 ---
 
+# 🛣️ Line Following Track Templates
+
+Students and parents can use the following printable templates to create custom tracks for line-following robot activities.
+
+These patterns can be printed and taped together to build different autonomous navigation circuits and challenges for the robots.
+
+🔗 Printable templates:
+https://juegosrobotica.es/plantillas-siguelineas/
+
+---
+
 # 📸 Classroom Philosophy
 
 This course emphasizes:
