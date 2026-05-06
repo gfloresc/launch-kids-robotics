@@ -11,8 +11,6 @@ This course introduces students to the exciting world of robotics, programming, 
 - Course: Robotics for Homeschoolers
 - Program: LAUNCH Homeschool Program
 - Institution: First Baptist Church Laredo
-- Instructor: Gerardo Flores, Ph.D.
-- Organization: RAPTOR Lab – Texas A&M International University
 
 ---
 
@@ -90,36 +88,6 @@ resources/     -> Additional learning materials
 
 ---
 
-# 💻 Example Code
-
-from microbit import *
-
-while True:
-    display.scroll("HELLO ROBOTICS!")
-
----
-
-# 👨‍🏫 Instructor
-
-Gerardo Flores, Ph.D.
-
-Associate Professor
-School of Engineering
-Texas A&M International University
-
-Director of RAPTOR Lab
-Robotics and Autonomous Platforms for Technology Operations and Research
-
-Research Areas:
-- Robotics
-- Autonomous Systems
-- Drones
-- Soft Robotics
-- Computer Vision
-- Control Systems
-
----
-
 # 📸 Classroom Philosophy
 
 This course emphasizes:
@@ -139,7 +107,6 @@ Special thanks to:
 - LAUNCH Homeschool Program
 - First Baptist Church Laredo
 - Students and families participating in the course
-- RAPTOR Lab members and volunteers
 
 ---
 
@@ -154,7 +121,3 @@ This repository is intended for educational purposes.
 Gerardo Flores, Ph.D.
 Texas A&M International University
 Email: gerardo.flores@tamiu.edu
-
----
-
-# 🤖 Let’s Build Robots and Have Fun Learning STEM! 🚀
