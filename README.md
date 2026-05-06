@@ -44,47 +44,21 @@ This course may include activities using:
 # 📂 Repository Structure
 
 slides/        -> PowerPoint presentations used in class
-code/          -> Programming examples and robot code
-activities/    -> Worksheets and classroom activities
-images/        -> Course images and diagrams
-videos/        -> Demonstration videos
-resources/     -> Additional learning materials
 
 ---
 
-# 🗓️ Course Topics
+# 🔗 Class Programs
 
-## Module 1 — Introduction to Robotics
-- What is a robot?
-- Real-world robotics applications
-- Types of robots
-
-## Module 2 — Programming Basics
-- Algorithms
-- Variables
-- Loops
-- Conditional statements
-
-## Module 3 — Sensors and Motors
-- LEDs
-- Buttons
-- Distance sensors
-- Motors and movement
-
-## Module 4 — Mobile Robotics
-- Differential drive robots
-- Robot navigation
-- Obstacle avoidance
-
-## Module 5 — Line Following Robots
-- Line sensors
-- Autonomous navigation
-- Improving robot behavior
-
-## Module 6 — Final Robotics Challenges
-- Team competitions
-- Autonomous missions
-- Creative robot projects
+| Class | Program |
+|---|---|
+| Program 1 | https://makecode.microbit.org/S04441-11563-72955-39278 |
+| Program 2 | https://makecode.microbit.org/S40060-03540-03129-26374 |
+| Program 3 | https://makecode.microbit.org/S75617-81601-23094-12932 |
+| Program 4 | https://makecode.microbit.org/S27879-90138-18741-75003 |
+| Program 5 | https://makecode.microbit.org/S46426-50624-91806-06156 |
+| Program 6 | https://makecode.microbit.org/S03484-79528-60137-84803 |
+| Program 7 | https://makecode.microbit.org/S00110-24600-86598-30591 |
+| Program 8 | https://makecode.microbit.org/S89305-07654-61481-18784 |
 
 ---
 
